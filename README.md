@@ -2,9 +2,9 @@
 
 # README
 
-Naviagte to qb-interior/client/main.lua
-Search: exports('CreateApartmentFurnished', function(spawn)
-Line:34-60
+# Naviagte to qb-interior/client/main.lua
+# Search: exports('CreateApartmentFurnished', function(spawn)
+# Line:34-60
 
 # And replace to this
 ```
