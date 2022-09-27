@@ -1,5 +1,9 @@
 # qb-interior-modern
 
+# Preview
+https://www.youtube.com/watch?v=je2iugvNxnQ&t=8s
+![Näyttökuva (17)](https://user-images.githubusercontent.com/114511127/192594058-0b365818-e5a3-4bab-b960-0cf2cadb659b.jpg)
+
 # README
 
 # Naviagte to qb-interior/client/main.lua
