@@ -36,7 +36,7 @@ exports('CreateApartmentFurnished', function(spawn)
     return { objects, POIOffsets }
 end)```
 
-# TO THIS
+
 ```
 exports('CreateApartmentFurnished', function(spawn)
     local objects = {}
@@ -65,5 +65,5 @@ exports('CreateApartmentFurnished', function(spawn)
         end)
     end
     return { objects, POIOffsets }
-end)
- ```
+end) ```
+
